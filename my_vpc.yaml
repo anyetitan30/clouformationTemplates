@@ -266,5 +266,5 @@ Outputs:
     Value: !Ref PrivateSubnet2
 
   myInstance:
-    Description: a reference to my newly created InstanceSecurityGroup
+    Description: A reference to my newly created InstanceSecurityGroup
     Value: !Ref myInstance
