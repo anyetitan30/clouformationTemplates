@@ -79,5 +79,5 @@ Resources:
       Subscription:
         - Endpoint: anyetitan30@gmail.com  
           Protocol: "email"
-      TopicName: "SampleTopic"
+      TopicName: "SampleTopics"
  
